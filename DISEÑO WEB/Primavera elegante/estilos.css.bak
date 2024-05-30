@@ -1,0 +1,60 @@
+
+.blur{
+background-color: gray;
+color: inherit; 
+margin-left: 4px;
+margin-top: 4px;
+}
+
+.shadow,
+.content{
+position: relative;
+bottom: 6px;
+right: 2px;
+}
+
+.shadow{
+background-color: green; 
+color: inherit;
+}
+
+.content{
+background-color: #8FFF8C;
+color: gray;
+border: 1px solid black;
+padding:.01em 2ex;
+}
+h1,.p1{
+	color:green;
+}
+.amarillo{
+color:yellow;
+}
+.naranja{
+color:orange;
+}
+.rojo{
+color:red;
+}
+.azul{
+	color:blue
+}
+.verde{
+	color:green;
+}
+.violeta{
+	color:purple;
+}
+.marron{
+	color:brown;
+}
+.blanco{
+	text-shadow:-0.2em -0.2em black;
+	color:white;	
+}
+.gris{
+	color:gray;
+}
+.rosa{
+	color:rgb;
+}

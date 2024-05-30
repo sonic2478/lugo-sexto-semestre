@@ -1,0 +1,46 @@
+return resultados;
+}
+ *copear buscar hasta la penultima llave y pegar antes de la ultima
+cambios:
+
+public String > public byte[]
+buscar > buscarfoto
+String nombre > int codigo
+String > byte
+Select * > Select foto
+Nombre > codigo
+setString > setint
+borrar resultados, solo dejar uno: resultados = re.getBytes("foto");
+
+
+En contactos codigo
+
+declaracion de variables 
+
+private void mostrarfoto(int codigo)
+Metodos m2 = new Metodos
+byte[] resultado = m2.BuscarFoto (Codigo);
+if(resultado == null) 
+JOptionPane.showMessageDialog (rootPane, "El contacto no tiene foto");
+else{
+try{
+imgFoto = convertirImagen(resultado);
+Icon imagen = new ImageIcon(imgFoto.getScaledInstance (JLFoto.getWidth(), JLFoto.getHeigth(), Image.SCALE_DEFAULT));
+JLFoto.setIcon(imagen);
+}
+catch(IOException ex){
+JOptionPane.showMessageDialog(rootPane, "Error al abrir la imagen. \n" + ex);
+}
+}
+}
+
+private Image convertirImagen(byte[] bytes)
+throws IOException{
+ByteArrayInputStream bais = new ByteArrayInputStream(bytes);
+Iterator lector = ImageIO.getImageReadersByFormatName ("jpg");
+Imagereader leerImg = (ImageReader) lector.next();
+object obj = bais;
+ImageInputStream iis = ImageIO.createImageInputStream(obj);
+leerImg.setInput (iis, true);
+ImageReaderParam irp = leerImg.getDefaultReaderParam();
+return leerImg.read(0,irp);

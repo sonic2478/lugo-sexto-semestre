@@ -1,0 +1,20 @@
+html {
+	background-image:url("pregunta.jpg");
+	border: 10px solid #00FFFF;
+	}	
+h1 {
+	font-size:50px;
+	text-shadow:1px 2px 2px #C7D8D8;
+	font-family: "Tilt Neon", cursive;
+}
+h2,p {
+	color: #C7D8D8;
+	font-size:35px;
+	text-shadow:1px 2px 3px #C7D8D8;
+	font-family: "Tilt Neon", cursive;
+}
+p:hover{
+	color:#00FFFF;
+}
+	
+

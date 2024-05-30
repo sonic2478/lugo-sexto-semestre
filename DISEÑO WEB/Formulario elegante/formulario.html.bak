@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang= "es">
+	<head>
+	<link href="estilo.css" rel="stylesheet" type="text/css">	
+		<title>Formulario</title>
+	</head>
+	<body>
+		<section>
+		<center>
+		<h1><font color= "green">Holaaaaa esto es un formulario para que personas te conozcan mejor ^^</font></h1>
+		
+		<form name= "formulario" id= "formulario" method "get">
+			<h2><font>Nombre:<input name="Nombre">
+			<p>Edad:<input type= "number" name="Edad"></p>
+			<p>Fecha de nacimiento:<input type= "date" name="Fecha"></p>
+			<p>Teléfono:<input type= "tel" name= "Telefono" id="telefono"></p>
+			<p>Instagram:<input name="Insta"></p>
+			<p>Correo:<input type= "email" name="Email"></p>
+			<p>Color favorito:<input type= "color" name="Colorfav"></p>
+			<p>Comida favorita:<input name="Comidafav"></p>
+			<p>Top 3 canciones(separalas con coma por favor):<input name="Cancionesfav" multiple></p>
+			<p>Videojuego favorito:<input name="Vidfav"></p>
+			<p>Consola favorita:<input name="Consolafav"></p>
+			<p>Película favorita:<input name="Pelifav"></p>
+			<p>Serie favorita:<input name="Seriefav"></p>
+			<p>Caricatura favorita:<input name="Carifav"></p>
+			<p>Intro favorita:<input name="Introfav"></p>
+			<p>Personaje favorito:<input name="Persfav"></p>
+			<p>Superhéroe favorito:<input name="Heroefav"></p>
+			<p>Actor favorito:<input name="Actorfav"></p>
+			<p>¿Qué casa de Hogwarts eres?<input name="Casahp"></p>
+			<p>Si pudieras jugar Quidditch, ¿lo harías?<input name="Quidditch"></p>
+			<p>¿Te comprarás el Hogwarts Legacy?<input name="HLegacy"></p>
+			</center>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,43 @@
+<htmtl>
+	<head>
+	<link href="estilos.css" rel="stylesheet" type="text/css">
+	
+
+		<title>CUENTO DE PRIMAVERA</title>
+	</head>
+	<body bgcolor= "#B8F3F9">
+	
+		<center>
+		<h1><font size="40px">Esto es un cuento de primavera</h1></font>
+		<p class="p1"><font size= "20px">Por Santiago Alvarez</font><p>
+		<div class="blur">
+		<div class="shadow">
+		<div class="content"><font size= "10px"><a href="file:///F:/SEXTO%20SEMESTRE/DISE%C3%91O%20WEB/Primavera/Capitulo1.html">Capitulo 1</font></a></div>
+		</div>
+		</div>
+		<div class="blur">
+		<div class="shadow">
+		<div class="content"><font size= "10px"><a href="file:///F:/SEXTO%20SEMESTRE/DISE%C3%91O%20WEB/Primavera/Capitulo2.html">Capitulo 2</font></a></div>
+		</div>
+		</div>		
+		<div class="blur">
+		<div class="shadow">
+		<div class="content"><font size= "10px"><a href="file:///F:/SEXTO%20SEMESTRE/DISE%C3%91O%20WEB/Primavera/Capitulo3.html">Capitulo 3</font></a></div>
+		</div>
+		</div>
+		<div class="blur">
+		<div class="shadow">
+		<div class="content"><font size= "10px"><a href="file:///F:/SEXTO%20SEMESTRE/DISE%C3%91O%20WEB/Primavera/Capitulo4.html">Capitulo 4</font></a></div>
+		</div>
+		</div>
+		<div class="blur">
+		<div class="shadow">
+		<div class="content"><font size= "10px"><a href="file:///F:/SEXTO%20SEMESTRE/DISE%C3%91O%20WEB/Primavera/teoriadelcolor.html">Teoria del color</font></a></div>
+		</div>
+		</div>
+		<img src= "margarita.jpg">
+		</center>
+	</body>
+</html> 
+	
+	

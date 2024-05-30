@@ -1,0 +1,7 @@
+String rutaDelArchivo = System.getProperty("user.dir")+"//Santi.txt";
+    File archivo= new File(rutaDelArchivo);
+    
+    MetoDos md = new MetoDos();
+    md.Escribir(archivo, "HOLA MUNDO.");
+    md.Leer(archivo);
+    }

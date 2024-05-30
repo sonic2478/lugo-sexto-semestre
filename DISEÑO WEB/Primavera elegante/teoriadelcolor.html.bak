@@ -1,0 +1,26 @@
+<htmtl>
+	<head>
+	<link href="estilos.css" rel="stylesheet" type="text/css">
+		<title>TEORÍA DE LOS COLORES</title>
+	</head>
+	<body>
+		<center>
+		<h1><font size="20px">Esto será un pequeño resumen de qué significado psicológico tiene cada color</h1></font>
+		<p class="amarillo"><font size= "6px">El amarillo es el color de la luz y del oro. Se relaciona con la riqueza y la abundancia, con la acción y el poder.</p>
+		<p class="naranja">El naranja simboliza entusiasmo y acción. Algunos de sus significados tienen que ver tanto con lo terrenal como con lo divino, pues</p> 
+		<p class="naranja">representa también la exaltación.</p>
+		<p class="rojo">El rojo es el color más vigoroso; demuestra alegría y fiesta. Es impulsivo y simboliza la sangre, el fuego, la pasión, la fuerza y la</p>
+		<p class="rojo">revolución. También se le relaciona con la destrucción, la crueldad y la violencia.</p>
+		<p class="azul">El azul es el color del espacio, de la lejanía y del infinito. En publicidad se le relaciona con la limpieza y la frescura. Es un color,
+		<p class="azul">como todos los fríos, que parece alejarse, y simboliza ideas de tranquilidad, afecto, frío e inteligencia.</p>
+		<p class="verde">El verde es el color de la naturaleza y de la humanidad. Representa esperanza y el equilibrio emocional, pero por otra parte tiene 
+		<p class="verde">significados negativos, como el veneno, lo demoníaco y su relación con los reptiles.</p>
+		<p class="marron">El marrón és un color masculino, severo, confortable. Es evocador del ambiente otoñal y da la impresión de gravedad y equilibrio. 
+		<p class="marron">Es el color realista, tal vez porque es el color de la tierra que pisamos.</p>
+		<p class="blanco">El blanco generalmente tiene lecturas positivas como la pureza, la limpieza, la paz y la virtud.</p>
+		<p class="negro">El negro lo contrario: tinieblas, ceguera, muerte y luto, aunque también simboliza elegancia.</p>
+		<p class="gris">Por último, los grises son colores pasivos, carentes de energía, neutrales y significativos de resignación.</p></font>
+		</center>
+	</body>
+</html>
+		
